@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">QuizApp</string>
+    <string name="app_name" translatable="false">QuizApp</string>
+    <string name="questionText">TextView</string>
+    <string name="answer1">Button</string>
+    <string name="answer2">Button</string>
+    <string name="answer3">Button</string>
+    <string name="answer4">Button</string>
 </resources>
